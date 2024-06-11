@@ -1,2 +1,2 @@
-# Calculadora
- 
+# Calculator
+ pequeno projeto de uma calculadora
